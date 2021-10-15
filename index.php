@@ -1,4 +1,4 @@
 <?php 
-echo 'Proyecto 27';
+echo 'Proyecto 27  version2';
 ?>
 
